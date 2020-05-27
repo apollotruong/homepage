@@ -85,3 +85,11 @@
     
   }
   
+.my_time
+  {
+    font-size: xx-large;
+    font-weight: 600;
+    margin-bottom: 100px;
+    color: rgba(255, 250, 240, 0.897);
+    text-align: center;
+  }
