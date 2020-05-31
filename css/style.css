@@ -32,6 +32,10 @@
     color: rgba(255, 250, 240, 0.897);
     text-align: center;
   }
+
+  .no-bullet{
+    list-style-type: none;
+  }
   
   .links-wrapper {
     display: flex;
