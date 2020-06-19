@@ -1,4 +1,4 @@
-# homepage
+# Homepage
 
 ## Description
 Here's simple homepage with links that I frequent!
