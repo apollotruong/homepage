@@ -21,3 +21,6 @@ Navigate to your browser (Firefox/Chrome) and set your homepage to:
 C:\Users\Admin\Documents\homepage\index.html
 ```
 
+## TODO!
+
+Toggle brightness
