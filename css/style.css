@@ -125,7 +125,7 @@
 
   .links-wrapper div a.mid:hover::before {
     visibility: visible;
-    transform: scaleX(1);
+    transform: scaleX(.8);
   }
   
   .my_time{
