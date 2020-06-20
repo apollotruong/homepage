@@ -24,3 +24,7 @@ C:\Users\Admin\Documents\homepage\index.html
 ## TODO!
 
 Toggle brightness
+
+Toggle a theme
+
+flexing
